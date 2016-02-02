@@ -11,10 +11,11 @@ c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocaliz
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Core.xml
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Xaml.xml
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.csprojResolveAssemblyReference.cache
-c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Inicio.xaml.g.cs
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.pdb
-c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
-c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb
-c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
-c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.Inicio.xaml.g.cs
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb

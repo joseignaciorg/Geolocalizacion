@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              x:Class="Geolocalizacion.Inicio">
   <StackLayout>
     <Label x:Name="TxtLat"/>
     <Label x:Name="TxtLon"/>
+    <maps:Map x:Name="Mapa"></maps:Map>
     <Button Text="Donde estoy?" Clicked="Button_OnClicked"/>
   </StackLayout>
 </ContentPage>
